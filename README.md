@@ -48,12 +48,12 @@ Move the downloaded folder `delivery-finder-bot`  (as done in Step0-b above) in 
 
 ### Step 2.2
 > Go to your cart page
-![Follow this step](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/Step1.png)
+![Follow this step](https://github.com/jkshobby/deliveryfinderbot/master/assets/Step1.png)
 
 ### Step 2.3
 > On the checkout page, if there is no availability window, then you may see this page, then 
 ![follow this step to collect cookie](
-https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/Step%202%20and%203.png)
+https://github.com/jkshobby/deliveryfinderbot/master/assets/Step%202%20and%203.png)
 
 > **Move to step 3 now**
 
@@ -66,12 +66,12 @@ https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/Ste
 
 ### Step 2.2
 > Go to your Whole Foods Market cart page
-![Follow this step](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/wholesfood1.png)
+![Follow this step](https://github.com/jkshobby/deliveryfinderbot/master/assets/wholesfood1.png)
 
 ### Step 2.3
 > On the checkout page, if there is no availability window, then you may see this page. Then `right click` anywhere on this page and select `inspect` which will open a developer tool bar as shown below 
 ![follow this step to collect cookie](
-https://github.com/jkshobby/delivery-finder-bot/blob/master/assets/wholesfood2_1.png)
+https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/wholesfood2_1.png)
 
 > **Move to step 3 now**
 
@@ -88,7 +88,7 @@ https://github.com/jkshobby/delivery-finder-bot/blob/master/assets/wholesfood2_1
 ### Step 2.3
 > On the checkout page, if there is no availability window, then you may see this page. Then `right click` anywhere on this page and select `inspect` which will open a developer tool bar as shown below 
 ![follow this step to collect cookie](
-https://github.com/jkshobby/delivery-finder-bot/blob/master/assets/samsclub1.png)
+https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/samsclub1.png)
 
 > **Move to step 3 now**
 
@@ -107,7 +107,7 @@ Go to `covid19` folder and then subfolder `delivery-finder-bot` subfolder where 
 
 ## Step 6
 In the `delivery-finder-bot` folder, you would find a file called `deliveryfinderbot.js`. Open that file in any editor and at the top of the file, you will find keys for three different retailers' cookies (lines 4,5 and 6). Whichever retailer's cookie you collected in step2 above, then replace the value of `XXXXX` with the collected cookie value. You can input multiple retaliers' cookies value by replacing the corresponding `XXXXX`. Then save the file.
-![example](https://github.com/jkshobby/delivery-finder-bot/blob/master/assets/config1.png)
+![example](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/config1.png)
 
 ## Step 7
 Go to the terminal window at `/covid19/delivery-finder-bot` folder 
@@ -136,7 +136,7 @@ $ node finder.js -amazonfresh
 ```
 
 **An example**
-![example](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/start.png)
+![example](https://github.com/jkshobby/deliveryfinderbot/master/assets/start.png)
 
 
 In your output, if you see the following then you are all set.
@@ -155,7 +155,7 @@ Leave your computer plugged in and don't close it (let it remain connected to th
 You are welcome to send the PR
 
 ## Thanks to these folks who contributed in the development of this script for supporting the cause.
-1. [](https://github.com/jkshobby)
+1. [jkshobby](https://github.com/jkshobby)
 
 ## Disclaimer
 The author doesn't take any responsibility for any situation that may be the result of running this script. Please use it at your own risk.
