@@ -8,7 +8,7 @@
 **Run this script, which will check the availability of delivery window of `Instacart` or `Costco Same Day` or `Amazon Wholesfood Market` every minute and alert you as soon as it finds one. Currently this script checks available delivery windows for these retailers:**
 
 | ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_instacart.png)  | ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_wholesfood.png) | ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_costco-same-day.png) |
-| ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_samsclub.png)  | ------------- | ------------- |
+| ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_samsclub.png)  | 
 
 
 
@@ -90,8 +90,6 @@ https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/wholesfood2_1.p
 https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/samsclub1.png)
 
 > **Move to step 3 now**
-
-<hr>
 <hr>
 
 ## Step 3
