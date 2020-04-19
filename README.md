@@ -7,15 +7,15 @@
 ## Solution: 
 **Run this script, which will check the availability of delivery window of `Instacart` or `Costco Same Day` or `Amazon Wholesfood Market` every minute and alert you as soon as it finds one. Currently this script checks available delivery windows for these retailers:**
 
-| ![](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot-bot/master/assets/logo_instacart.png)  | ![](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/logo_wholesfood.png) | ![](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/logo_costco-same-day.png) |
-| ![](https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/logo_samsclub.png)  | ------------- | ------------- |
+| ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_instacart.png)  | ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_wholesfood.png) | ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_costco-same-day.png) |
+| ![](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/logo_samsclub.png)  | ------------- | ------------- |
 
 
 
 <hr>
 
 ![](
-https://raw.githubusercontent.com/jkshobby/delivery-finder-bot/master/assets/delivery-finder-bot.png)
+https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/delivery-finder-bot.png)
 
 This is an effort to help people to get their groceries in this difficult time of COVID-19. This script helps you to find a delivery window of InstaCart and Amazon Wholes Food. The finder will alert (you will hear this [Beep sound](https://clyp.it/fjrsqftl) as an alert) you when it finds an availability window is open. 
 *This is a barebone (unoptimized) script - `a quick & dirty hack`. If you are a developer, then feel free to send a PR to improve it*
@@ -28,7 +28,7 @@ This is an effort to help people to get their groceries in this difficult time o
 *a)* Install `npm` and `nodejs` - 
 To do so, go to https://nodejs.org/en/ and download any version of the binary, that will be used for installing `node` as well as `npm`. Then double click the downloaded binary and follow the instructions to install `npm` as well as `node` . To confirm the installation, open your terminal.app window and run `node -v` if that outputs a version number, then you are good to move forward.
 
-*b)* Download (or clone) this repo by clicking the green "Clone or Download" button shown above. If you have downloaded, then unzip the downloaded folder (`delivery-finder-bot-master`) and rename the folder to `delivery-finder-bot` 
+*b)* Download (or clone) this repo by clicking the green "Clone or Download" button shown above. If you have downloaded, then unzip the downloaded folder (`deliveryfinderbotmaster`) and rename the folder to `deliveryfinderbot` 
 
 ## Step 1
 Assuming you are on Mac OS, so open a terminal window and create a folder, let's say, `covid19` 
@@ -36,7 +36,7 @@ Assuming you are on Mac OS, so open a terminal window and create a folder, let's
 $ mkdir covid19
 $ cd covid19
 ```
-Move the downloaded folder `delivery-finder-bot`  (as done in Step0-b above) in `covid19` folder
+Move the downloaded folder `deliveryfinderbot`  (as done in Step0-b above) in `covid19` folder
 
 ## Step 2
 <hr>
@@ -48,13 +48,12 @@ Move the downloaded folder `delivery-finder-bot`  (as done in Step0-b above) in 
 
 ### Step 2.2
 > Go to your cart page
-![Follow this step](https://github.com/jkshobby/deliveryfinderbot/master/assets/Step1.png)
+![Follow this step](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/Step1.png)
 
 ### Step 2.3
 > On the checkout page, if there is no availability window, then you may see this page, then 
 ![follow this step to collect cookie](
-https://github.com/jkshobby/deliveryfinderbot/master/assets/Step%202%20and%203.png)
-
+https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/Step%202%20and%203.png)
 > **Move to step 3 now**
 
 <hr>
@@ -66,7 +65,7 @@ https://github.com/jkshobby/deliveryfinderbot/master/assets/Step%202%20and%203.p
 
 ### Step 2.2
 > Go to your Whole Foods Market cart page
-![Follow this step](https://github.com/jkshobby/deliveryfinderbot/master/assets/wholesfood1.png)
+![Follow this step](https://github.com/jkshobby/deliveryfinderbot/blob/master/assets/wholesfood1.png)
 
 ### Step 2.3
 > On the checkout page, if there is no availability window, then you may see this page. Then `right click` anywhere on this page and select `inspect` which will open a developer tool bar as shown below 
